@@ -17,6 +17,7 @@ AWS Certified Solutions Architect – Professional
 ### Prominent Contributions
 
 **Open Source**
+
 - [CDK EKS Blueprints](https://github.com/aws-quickstart/cdk-eks-blueprints) - Infrastructure patterns for Amazon EKS, including local validation tooling for EKS plugins
 - [Zed IDE Bedrock Integration](https://github.com/zed-industries/zed) - Built and maintain AWS Bedrock support from scratch
 - [AWS MCP Servers](https://github.com/awslabs/mcp) - CloudFormation Model Context Protocol server
@@ -25,8 +26,9 @@ AWS Certified Solutions Architect – Professional
 - [Underwater VLC](https://github.com/5herlocked/c-underwatervlc) - Software stack for underwater visual light communication
 
 **Community & Content**
+
 - Co-host of HowdyPartner podcast series
 - Technical content on Generative AI for developer experience
 - Solutions architecture patterns and best practices
 
-Find Shardul at [shardul.me](https://shardul.me) or on [LinkedIn](https://www.linkedin.com/in/shardul-vaidya).
+Find me at [shardul.me](https://shardul.me) or on [LinkedIn](https://www.linkedin.com/in/shardul-vaidya).
