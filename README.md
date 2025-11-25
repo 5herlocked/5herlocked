@@ -1,6 +1,6 @@
 ### Hey, Shardul here.
 
-Partner Solutions Architect working in the cloud and AI space, helping teams design systems that actually work at scale. Contributed to several open source projects with a focus on making infrastructure feel invisible when it's done right.
+Partner Solutions Architect working in the cloud and AI space, helping teams design systems that actually work at scale. Focus is on leveraging Generative AI to improve the developer experience and building solutions that make infrastructure feel invisible when it's done right.
 
 Built the Bedrock integration for Zed IDE from scratch and actively maintains it as the service evolves. Most recently added API key support alongside the existing AWS auth formats because users asked for it.
 
@@ -10,19 +10,23 @@ Code should be readable. Systems should be maintainable. Everything else is just
 
 ### Background
 
-B.S. and M.S. in Computer Science from Georgia State University with a focus on distributed computing, performance optimization, and edge computing. The death of the Personal Area Network was the saddest thing.
+B.S. and M.S. in Computer Science from Georgia State University with a focus on distributed computing, performance optimization, and edge computing. Research background in underwater visual light communication and human-computer interaction. The death of the Personal Area Network was the saddest thing.
+
+AWS Certified Solutions Architect – Professional
 
 ### Prominent Contributions
 
 **Open Source**
-- CDK EKS Blueprints - Infrastructure patterns for Amazon EKS
-- Zed IDE Bedrock Integration - Built and maintain AWS Bedrock support
-- AWS CFN MCP Server - CloudFormation Model Context Protocol server
-- Q Business Application Samples - Reference implementations and patterns
+- [CDK EKS Blueprints](https://github.com/aws-quickstart/cdk-eks-blueprints) - Infrastructure patterns for Amazon EKS, including local validation tooling for EKS plugins
+- [Zed IDE Bedrock Integration](https://github.com/zed-industries/zed) - Built and maintain AWS Bedrock support from scratch
+- [AWS MCP Servers](https://github.com/awslabs/mcp) - CloudFormation Model Context Protocol server
+- [Amazon Q Business Samples](https://github.com/aws-samples/sample-code-for-Q-business-custom-plugins) - Reference implementations and patterns for Q Business applications
+- [OpenWaters](https://dl.acm.org/doi/fullHtml/10.1145/3491315.3491336) - Photorealistic simulations for underwater computer vision
+- [Underwater VLC](https://github.com/5herlocked/c-underwatervlc) - Software stack for underwater visual light communication
 
-**Technical Writing**
-- Building with Amazon Bedrock and Zed IDE
-- Scaling EKS workloads with CDK patterns
-- Edge computing architectures and trade-offs
+**Community & Content**
+- Co-host of HowdyPartner podcast series
+- Technical content on Generative AI for developer experience
+- Solutions architecture patterns and best practices
 
 Find Shardul at [shardul.me](https://shardul.me) or on [LinkedIn](https://www.linkedin.com/in/shardul-vaidya).
