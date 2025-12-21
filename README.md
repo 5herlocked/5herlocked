@@ -32,3 +32,5 @@ AWS Certified Solutions Architect – Professional
 - Solutions architecture patterns and best practices
 
 Find me at [shardul.me](https://shardul.me) or on [LinkedIn](https://www.linkedin.com/in/shardul-vaidya).
+
+Most of the Development I do in my personal life is now available in my Self-Hosted instance of [Forgejo](https://forgejo.shardul.me). More about the [Forgejo project](https://forgejo.org/)
